@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item-->
+    <!--android:id="@+id/nav_search"-->
+    <!--android:title="@string/dummydata3"-->
+    <!--/>-->
+
+    <!--<item-->
+        <!--android:id="@+id/nav_saved_search_results"-->
+        <!--android:title="@string/dummydata2"-->
+        <!--/>-->
+
+    <!--<item-->
+        <!--android:id="@+id/nav_settings"-->
+        <!--android:title="@string/dummydata1"-->
+         <!--/>-->
+    <item
+        android:id="@+id/rv_locations"
+        android:title="@string/locations"
+    />
+
+</menu>
